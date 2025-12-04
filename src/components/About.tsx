@@ -6,9 +6,14 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-        Security Software Developer with 2+ years at HP specializing in firmware protection, TPM integration, and secure DevOps automation. 
-        Delivered a 45% increase in vulnerability detection and enhanced endpoint security through cryptographic verification and CI/CD security integrations. 
-        Adept at static/dynamic code analysis, penetration testing, and implementing enterprise-grade security controls.
+        Full Stack Developer with 4+ years of experience designing, developing, and deploying scalable web applications, secure
+        backend services, and cloud-native solutions. Skilled in building high-performance frontend interfaces using React.js,
+        TypeScript, and modern UI frameworks, and engineering robust backend microservices with Node.js, Express.js, Java (Spring
+        Boot), and .NET Core. Proficient in REST/GraphQL API development, database optimization, and implementing containerized
+        CI/CD pipelines using Docker, Kubernetes, GitHub Actions, Jenkins, and Azure DevOps. Strong background in system security,
+        including authentication, authorization, secure coding practices, TPM validation, secure boot workflows, and vulnerability
+        troubleshooting. Known for delivering production-ready features, writing clean and maintainable code, and collaborating
+        effectively with cross-functional teams in Agile/Scrum environments.
         </p>
       </div>
     </div>

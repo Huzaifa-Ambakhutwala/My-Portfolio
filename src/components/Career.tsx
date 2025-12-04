@@ -15,15 +15,19 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Scurity Software Intern</h4>
-                <h5>HP Inc</h5>
+                <h4>Software Developer Intern</h4>
+                <h5>Experion Technologies</h5>
               </div>
               <h3>2022</h3>
             </div>
             <p>
-            •	Built a TPM-integrated device integrity tool using C++ and PowerShell; adopted for compliance use by internal security teams.<br />
-            •	Strengthened provisioning workflows by implementing cryptographic signing and verification mechanisms.<br />
-            •	Developed firmware monitoring logic to detect unauthorized BIOS changes, reducing undetected tampering cases by 25%.<br />
+              • Assisted in developing modular frontend components using JavaScript, React.js, and HTML/CSS, enhancing UI responsiveness and cross-browser compatibility.
+              • Implemented REST API integrations using Node.js & Express.js, supporting vehicle tracking, route updates, and driver status synchronization.
+              • Collaborated with senior developers to design and optimize SQL database schemas (MySQL) for managing fleet, driver, and shipment data.
+              • Participated in daily Agile/Scrum standups, contributing to sprint planning, task estimation, and feature reviews.
+              • Performed debugging, unit testing, and issue resolution using Postman, Jest, and Chrome DevTools, reducing UI/API defects before release.
+              • Contributed to writing technical documentation, including API usage guides and feature implementation notes, improving cross-team communication.
+              • Supported deployment activities in Git/GitHub and CI/CD pipelines, ensuring smooth code integration and continuous delivery.
             </p>
           </div>
           <div className="career-info-box">
@@ -35,31 +39,31 @@ const Career = () => {
               <h3>2024</h3>
             </div>
             <p>
-            •	Engineered firmware validation features using C#/.NET and TPM cryptography, securing over 500K enterprise devices.<br />
-            •	Automated security testing pipelines using NUnit/XUnit in Azure DevOps, increasing pre-release vulnerability detection by 45%.<br />
-            •	Developed PowerShell scripts to validate patches and integrated them into CI/CD workflows, reducing manual testing by 30%.<br />
-            •	Led static and dynamic code analysis using Nessus, Wireshark, and open-source tools, cutting critical vulnerabilities by 35% per release.<br />
-            •	Partnered with cross-functional teams to implement secure boot protections and TPM integrations for endpoint integrity.
-
+              • Developed and maintained advanced backend security monitoring and diagnostic tools using C#/.NET, enabling real-time tracking of firmware integrity, hardware trust states, and enterprise-wide device security compliance across large-scale deployments.
+              • Enhanced and expanded internal engineering dashboards using HTML, Bootstrap, JavaScript, and jQuery, improving visualization of device health, security metrics, anomaly trends, and firmware telemetry for operational teams.
+              • Automated end-to-end CI/CD workflows in Azure DevOps, optimizing build pipelines, validation scripts, and deployment sequencing, resulting in a 30% reduction in release cycle time and significantly improved release reliability.
+              • Implemented robust TPM-based validation logic, secure boot verification, and trust-level authentication mechanisms to detect device tampering, validate firmware authenticity, and strengthen enterprise device integrity workflows.
+              • Developed high-performance C++ utilities and PowerShell automation scripts to streamline firmware provisioning, deployment verification, post-update security audits, and hardware policy enforcement across multiple device models.
+              • Collaborated closely with firmware, platform, cybersecurity, and systems engineering teams to troubleshoot integrity failures, mitigate vulnerabilities, enhance monitoring pipelines, and support secure enterprise hardware lifecycle processes.
+              • Authored comprehensive technical documentation covering system architecture diagrams, secure deployment procedures, test ca
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Freelance and Upskilling</h4>
-                <h5>Self</h5>
+                <h4>Full Stack Developer</h4>
+                <h5>Cardinal Health</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Now</h3>
             </div>
             <p>
-            Developed an AI-powered chatbot system using large language models and prompt engineering, experimenting with tools like DeepSeek and OpenAI APIs to automate business workflows.<br/>
-            Built a full-stack <strong>Volleyball Tournament Management Module</strong> that includes:<br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;- Player stat tracking interface modeled after SoloStats<br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;- Team creation, scheduling, and public scoreboard display<br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;- Real-time updates, leaderboard generation, and match history logging<br/>
-            Explored trending technologies in AI, including Retrieval-Augmented Generation (RAG), multi-agent systems, and vector databases like ChromaDB for personalized assistants.<br/>
-            Continued learning through hands-on projects in modern web stacks (React, Tailwind, Flask) and backend optimization practices.<br/>
-            Collaborated with an offshore development team on prototyping business tools for legal and signage industries using AI and automation.
+            • Developed and enhanced scalable, user-centric frontend modules using React.js, TypeScript, Redux, and Tailwind CSS, improving the product browsing, filtering, and checkout journey across high-traffic e-commerce pages.
+            • Engineered and optimized backend microservices using Node.js, Express.js, and Java (Spring Boot) to support real-time inventory synchronization, dynamic pricing updates, and personalized recommendation logic.
+            • Designed, integrated, and maintained REST and GraphQL APIs, ensuring seamless and high-performance data communication between product catalogs, recommendation engines, and customer-facing applications.
+            • Implemented advanced performance optimization techniques such as lazy loading, server-side caching, memoization, and asynchronous processing, reducing page load latency and API response time by over 30%.
+            • Managed complex data operations using PostgreSQL, MongoDB, and Redis, creating efficient schemas, improving query performance, and handling high-volume product metadata and customer personalization datasets.
+            • Automated cloud-native deployments using GitHub Actions, Docker containers, and Kubernetes clusters, ensuring reliable, scalable, and zero-downtime releases across multiple environments.
+            • Collaborated closely with cross-functional UX designers, product managers, QA teams, and data engineers in Agile/Scrum ceremonies to deliver sprint features, resolve functional defects, and continuously improve platform reliability.
             </p>
           </div>
         </div>
