@@ -84,7 +84,7 @@ const Work = () => {
                 <h3>03</h3>
                 <div>
                   <h4>AMK Tutors</h4>
-                  <a href="#">Web Application</a>
+                  <a href="https://www.amktutors.com">Web Application</a>
                 </div>
               </div>
               <h4>Tools and features</h4>
