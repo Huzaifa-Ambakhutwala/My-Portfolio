@@ -83,14 +83,14 @@ const Work = () => {
               <div className="work-title">
                 <h3>03</h3>
                 <div>
-                  <h4>E-Commerce Platform</h4>
+                  <h4>AMK Tutors</h4>
                   <a href="#">Web Application</a>
                 </div>
               </div>
               <h4>Tools and features</h4>
-              <p>React, Node.js, MongoDB, Express</p>
+              <p>React, Node.js, Firebase, Express</p>
             </div>
-            <WorkImage image="/images/placeholder.webp" alt="E-Commerce Platform" />
+            <WorkImage image="/images/AMK.png" alt="AMK Tutors" />
           </div>
 
           <div className="work-box">
